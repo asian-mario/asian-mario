@@ -1,6 +1,6 @@
 # hello, I'm asian-mario.
 
-i'm an aspiring Computer Systems Engineer and I am passioante in creating FOSS projects in a variety of fields.
+i'm an aspiring Computer Systems Engineer and I am passionate in creating FOSS projects in a variety of fields.
 
 
 - currently working on **[EasyOps](https://github.com/asian-mario/EasyOps) and [b-top](https://github.com/asian-mario/b-top)**
