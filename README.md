@@ -28,10 +28,10 @@ cloud:         Netlify
 a rust-based process monitor and manager using ratatui and tachyonfx for shaders. currently supporting UNIX-like systems
 - **language:** Rust
 
-### [EasyOps](https://github.com/yourusername/another-project)
+### [EasyOps](https://github.com/asian-mario/EasyOps)
 A open-source alternative for Hard-Surface modelling tools.
 - **languages:** Python ( + Blender API)
-### [ROUGE2](https://github.com/yourusername/third-project)
+### [ROUGE2](https://github.com/asian-mario/ROUGE2)
 Multi-API 2D Game Engine
 - **languages** C++, C, GLSL
 
