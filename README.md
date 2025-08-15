@@ -12,7 +12,7 @@ i'm an aspiring Computer Systems Engineer and a Founder of HCKL. I am passionate
 ```text
 languages:     C/C++, Python, Rust, JavaScript/TypeScript, HTML/CSS
 tools:         Git, VS Code, Visual Studio, WSL
-cloud:         Netlify
+cloud:         Netlify, Google Cloud
 ```
 
 ## github stats.
