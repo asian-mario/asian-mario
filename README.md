@@ -3,7 +3,7 @@
 i'm an aspiring Computer Systems Engineer and a Founder of HCKL. I am passionate in creating FOSS projects in a variety of fields.
 
 
-- currently working on **[EasyOps](https://github.com/asian-mario/EasyOps) and [b-top](https://github.com/asian-mario/b-top)**
+- currently working on **[EasyOps](https://github.com/asian-mario/EasyOps) and [r-top](https://github.com/asian-mario/b-top)**
 - forever chasing the GitHub star achievements
 - portfolio website [here](https://rangga.gunar.to/)
 
@@ -24,7 +24,7 @@ cloud:         Netlify, Google Cloud
 
 ## featured stuff.
 
-### [b-top](https://github.com/asian-mario/b-top)
+### [r-top](https://github.com/asian-mario/b-top)
 a rust-based process monitor and manager using ratatui and tachyonfx for shaders. currently supporting UNIX-like systems
 - **language:** Rust
 
