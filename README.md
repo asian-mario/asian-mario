@@ -31,9 +31,14 @@ a rust-based process monitor and manager using ratatui and tachyonfx for shaders
 ### [EasyOps](https://github.com/asian-mario/EasyOps)
 A open-source alternative for Hard-Surface modelling tools.
 - **languages:** Python ( + Blender API)
+- 
 ### [ROUGE2](https://github.com/asian-mario/ROUGE2)
 Multi-API 2D Game Engine
 - **languages** C++, C, GLSL
+
+- ### [Vizual](https://github.com/asian-mario/vizual)
+Node-graph extension for VSCode; pending V0.2 pre-release on Extension marketplace.
+- **languages** TypeScript
 
 ## cheeky connect
 
