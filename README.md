@@ -3,7 +3,7 @@
 i'm an aspiring Computer Systems Engineer and a Founder of HCKL. I am passionate in creating FOSS projects in a variety of fields.
 
 
-- currently working on **[EasyOps](https://github.com/asian-mario/EasyOps) and [r-top](https://github.com/asian-mario/b-top)**
+- currently working on **[EasyOps](https://github.com/asian-mario/EasyOps), [r-top](https://github.com/asian-mario/b-top) and [Vizual](https://github.com/asian-mario/vizual)**
 - forever chasing the GitHub star achievements
 - portfolio website [here](https://rangga.gunar.to/)
 
